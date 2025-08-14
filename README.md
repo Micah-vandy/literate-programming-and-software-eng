@@ -15,7 +15,7 @@ Literate programming is a programming paradigm that combines programming and doc
 ## Pre-Setup
 In this workshop, I will be using Cursor which uses AI to help you write code. It is built on top of VSCode, so it will look SUPER similar to VSCode if you want to use that. You can uninstall Cursor later if you want to directly follow along.
 
-1. Download Cursor from [here](https://cursor.com/download)
+1. Download Cursor from [here](https://cursor.com/downloads)
 2. Install Extensions:
   - Python:
     - Python by ms-python
