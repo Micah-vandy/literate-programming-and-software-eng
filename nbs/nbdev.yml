@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "literate-programming-and-software-eng"
+  site-url: "https://Micah-vandy.github.io/literate-programming-and-software-eng"
+  description: "A helper repo"
+  repo-branch: main
+  repo-url: "https://github.com/Micah-vandy/literate-programming-and-software-eng"
