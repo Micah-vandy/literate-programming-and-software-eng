@@ -1,0 +1,12 @@
+# NBDev Demo
+
+This is a demo file for the nbdev project.
+
+## Features
+- Penguin classification analysis
+- Neural network implementation
+- Data visualization
+- Machine learning pipeline
+
+## Usage
+Run the notebooks in the `nbs/` directory to see the analysis in action.
